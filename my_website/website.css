@@ -6,14 +6,19 @@ table{
     margin-right:auto;
     text-align:left;
     border-collapse:collapse;
-    border:black double 1px;
+    border: lightred double 1px;
 }
 td{
-    border:black double 1px;
+    border:lightred double 1px;
 }
 ul{
     width:100px; margin:auto;
 }
 ol{
     width:100px; margin:auto;
+}
+html{
+    background-image:url("http://www.bene.be/images/uploads/2012-blog/20120712/images-summer02.png");
+    color:lightred;
+    font-family: "Times New Roman", Times, serif;
 }
